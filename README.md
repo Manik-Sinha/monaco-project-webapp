@@ -1,1 +1,0 @@
-Webapp for the Great Monaco Project of Doom
